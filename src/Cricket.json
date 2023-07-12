@@ -1,0 +1,476 @@
+[
+    {
+        "team_name": "India",
+        "score": 0,
+        "players": [
+            {
+                "id": 1,
+                "name": "Rohit Sharma",
+                "role": "Batsman",
+                "jersey_number": 45,
+                "age": 34,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 2,
+                "name": "Shubhman Gill",
+                "role": "Batsman",
+                "jersey_number": 77,
+                "age": 23,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 3,
+                "name": "Virat Kohli",
+                "role": "Batsman",
+                "jersey_number": 18,
+                "age": 33,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 4,
+                "name": "Suryakumar Yadav",
+                "role": "Batsman",
+                "jersey_number": 63,
+                "age": 32,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 5,
+                "name": "Hardik Pandya",
+                "role": "All-Rounder",
+                "jersey_number": 33,
+                "age": 28,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 6,
+                "name": "Ravindra Jadeja",
+                "role": "All-Rounder",
+                "jersey_number": 8,
+                "age": 32,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 7,
+                "name": "Mahendra Singh Dhoni",
+                "role": "Wicketkeeper/Batsman",
+                "jersey_number": 7,
+                "age": 41,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 8,
+                "name": "Jasprit Bumrah",
+                "role": "Bowler",
+                "jersey_number": 93,
+                "age": 28,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 9,
+                "name": "Mohammed Shami",
+                "role": "Bowler",
+                "jersey_number": 11,
+                "age": 31,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 10,
+                "name": "Yuzvendra Chahal",
+                "role": "Bowler",
+                "jersey_number": 3,
+                "age": 31,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 11,
+                "name": "Arshdeep Singh",
+                "role": "Bowler",
+                "jersey_number": 2,
+                "age": 24,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            }
+        ]
+    },
+    {
+        "team_name": "Australia",
+        "score": 0,
+        "players": [
+            {
+                "id": 1,
+                "name": "Aaron Finch",
+                "role": "Batsman",
+                "jersey_number": 5,
+                "age": 34,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 2,
+                "name": "David Warner",
+                "role": "Batsman",
+                "jersey_number": 31,
+                "age": 34,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 3,
+                "name": "Steve Smith",
+                "role": "Batsman",
+                "jersey_number": 49,
+                "age": 32,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 4,
+                "name": "Glenn Maxwell",
+                "role": "All-Rounder",
+                "jersey_number": 32,
+                "age": 33,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 5,
+                "name": "Alex Carey",
+                "role": "Wicketkeeper-Batsman",
+                "jersey_number": 7,
+                "age": 30,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 6,
+                "name": "Pat Cummins",
+                "role": "Bowler",
+                "jersey_number": 10,
+                "age": 28,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 7,
+                "name": "Mitchell Starc",
+                "role": "Bowler",
+                "jersey_number": 56,
+                "age": 31,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 8,
+                "name": "Adam Zampa",
+                "role": "Bowler",
+                "jersey_number": 22,
+                "age": 29,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 9,
+                "name": "Josh Hazlewood",
+                "role": "Bowler",
+                "jersey_number": 38,
+                "age": 30,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 10,
+                "name": "Marnus Labuschagne",
+                "role": "Batsman",
+                "jersey_number": 6,
+                "age": 27,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            },
+            {
+                "id": 11,
+                "name": "Glenn Maxwell",
+                "role": "All-Rounder",
+                "jersey_number": 14,
+                "age": 30,
+                "batting": {
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "balls": 0,
+                    "runs": 0,
+                    "economy": 0,
+                    "maiden_over": 0
+                }
+            }
+        ]
+    }
+]
